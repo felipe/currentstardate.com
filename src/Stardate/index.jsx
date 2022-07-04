@@ -1,6 +1,6 @@
 import React, {useState, useEffect} from 'react';
-import Earth from './format/Earth';
-import STO from './format/STO';
+// import Earth from './format/Earth';
+// import STO from './format/STO';
 import TNG from './format/TNG';
 
 const REFRESH_INTERVAL = 100;
