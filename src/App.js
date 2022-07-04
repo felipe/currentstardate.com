@@ -1,11 +1,11 @@
 import Unsplash from 'react-unsplash-wrapper';
-import Clock from './Clock';
+import Stardate from './Stardate';
 
 function App() {
   return (
     <Unsplash expand photoId="E0AHdsENmDg">
       <div className="App">
-        <Clock />
+        <Stardate />
       </div>
     </Unsplash>
   );
